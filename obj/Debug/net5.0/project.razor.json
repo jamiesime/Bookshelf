@@ -15603,6 +15603,11 @@
   "RootNamespace": "Bookshelf",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\jamie\\CodeScratches\\Bookshelf\\Views\\Books\\Create.cshtml",
+      "TargetPath": "Views\\Books\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jamie\\CodeScratches\\Bookshelf\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -15610,6 +15615,11 @@
     {
       "FilePath": "c:\\Users\\jamie\\CodeScratches\\Bookshelf\\Views\\Home\\FakeRoute.cshtml",
       "TargetPath": "Views\\Home\\FakeRoute.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jamie\\CodeScratches\\Bookshelf\\Views\\Books\\Edit.cshtml",
+      "TargetPath": "Views\\Books\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15623,6 +15633,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\jamie\\CodeScratches\\Bookshelf\\Views\\Books\\Delete.cshtml",
+      "TargetPath": "Views\\Books\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jamie\\CodeScratches\\Bookshelf\\Views\\Books\\Index.cshtml",
+      "TargetPath": "Views\\Books\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jamie\\CodeScratches\\Bookshelf\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -15630,6 +15650,11 @@
     {
       "FilePath": "c:\\Users\\jamie\\CodeScratches\\Bookshelf\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jamie\\CodeScratches\\Bookshelf\\Views\\Books\\Details.cshtml",
+      "TargetPath": "Views\\Books\\Details.cshtml",
       "FileKind": "mvc"
     },
     {

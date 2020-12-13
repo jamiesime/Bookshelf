@@ -8,9 +8,8 @@ namespace Bookshelf.Data
         public MvcBookContext(DbContextOptions<MvcBookContext> options)
         : base(options)
         {
-
         }
-
-        public DbSet<Book> books;
+ 
+        public DbSet<Book> books {get; set;}
     }
 }
