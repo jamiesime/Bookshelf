@@ -1,0 +1,15 @@
+@{
+    ViewData["Title"] = "Fake Zone";
+}
+
+
+<div class="text-center">
+    <h1>This is a fake route</h1>
+    <p>from hell</p>
+    <br>
+    @{
+        int initial = (int)ViewData["MultiplyThis"];
+        int result = (int)ViewData["MultiplyThis"] * 10;
+    }
+    <p>Multiplying @initial by 10 gives: @result</p>
+</div>
